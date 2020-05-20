@@ -30,3 +30,6 @@
 ## 20/5/2020 (V3.1)
 ### Send bit by bit to bool instead of bool array
 - Added failsafe, thread wait have max wait time
+
+## 20/5/2020 (V3.2)
+- Adjusted failsafe thread wait time to 50 instead of 10
