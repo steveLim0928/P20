@@ -23,3 +23,10 @@
 ### with QWaitCondition
 - Remove while loop and replace with QWaitCondition
 - Remove QDebug to minimise memory usage
+
+## 20/5/2020 (V2.2)
+- Cleaning up code
+
+## 20/5/2020 (V3.1)
+### Send bit by bit to bool instead of bool array
+- Added failsafe, thread wait have max wait time
